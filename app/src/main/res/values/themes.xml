@@ -1,0 +1,7 @@
+<resources>
+    <!-- AppCompat 계열로 바꿔주세요 -->
+    <style name="Theme.For_the_mother" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- 필요하면 색/폰트 커스텀 -->
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+</resources>
